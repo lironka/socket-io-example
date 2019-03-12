@@ -5,6 +5,9 @@
 ```
 git clone https://github.com/lironka/socket-io-example.git
 npm install
+cd ./socket-server
+npm install
+cd ..
 ```
 
 ## Run Backend

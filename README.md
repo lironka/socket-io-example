@@ -17,7 +17,6 @@ Server run on [http://localhost:4444/](http://localhost:4444/)
 ```
 cd ./socket-server
 node app.js
-cd ..
 ```
 
 ## Run Frontend

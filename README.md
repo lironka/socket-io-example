@@ -2,7 +2,10 @@
 
 ## Clone Project
 
-`git clone https://github.com/lironka/socket-io-example.git`
+```
+git clone https://github.com/lironka/socket-io-example.git
+npm install
+```
 
 ## Run Backend
 

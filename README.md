@@ -1,6 +1,6 @@
 # Socket.Io + Angular Example usage
 
-## Clone Progect
+## Clone Project
 
 `git clone https://github.com/lironka/socket-io-example.git`
 
